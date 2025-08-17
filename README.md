@@ -40,6 +40,7 @@ These insights point to opportunities for Walmart to strengthen its category mix
 ## 4. Insights Deep Dive
 ### Revenue and Quantity Trends
 - 2019 Q1 anomaly: Electronics generated peak revenues and quantities. Likely tied to launches/promotions.
+![Product Revenue and Sales](images/product_revenue.png)
 
 - Seasonality: Consistent November–December surge points to holiday-driven shopping.
 
