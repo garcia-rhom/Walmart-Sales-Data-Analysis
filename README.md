@@ -29,7 +29,7 @@ d. Profitability: Unit price, weighted profit margins, category-level profitabil
 e. Customer Behavior: Payment method preferences, ratings distribution, time-series of satisfaction
 
 ## 3. Executive Summary
-Walmart’s sales analysis of 1,000+ transactions across 2019–2022 highlights shifting category dynamics, evolving customer preferences, and uneven branch performance. Annual sales show a seasonal peak during the holiday months, though a one-time surge in early 2019 suggests the impact of a major launch or promotion. Electronics, once the top driver, have been replaced by Home & Lifestyle and Fashion Accessories, which now account for the majority of both revenue and profit.
+Walmart’s sales analysis of 10,000+ transactions across 2019–2023 highlights shifting category dynamics, evolving customer preferences, and uneven branch performance. Annual sales show a seasonal peak during the holiday months, though a one-time surge in early 2019 suggests the impact of a major launch or promotion. Electronics, once the top driver, have been replaced by Home & Lifestyle and Fashion Accessories, which now account for the majority of both revenue and profit.
 
 Regionally, Weslaco leads overall sales while Mansfield delivers the highest profit margins; however, Lake Jackson and several smaller cities lag significantly in both revenue and volume. Profitability is overwhelmingly category-driven, with Fashion Accessories and Home & Lifestyle contributing nearly 80% of total profit, while unit price and transaction volume show little correlation to margins.
 
