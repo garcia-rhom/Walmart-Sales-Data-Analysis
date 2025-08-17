@@ -1,4 +1,4 @@
-# Walmart-Sales-Data-Analysis-2019-
+# Walmart-Sales-Data-Analysis
 
 ## 1. Background and Overview
 This project analyzes Walmart’s sales, profitability, and customer feedback data to uncover trends, anomalies, and performance drivers across categories, cities, branches, and time periods. The ultimate objective is to inform product strategy, marketing campaigns, inventory planning, and operational decision-making.
