@@ -44,7 +44,6 @@ These insights point to opportunities for Walmart to strengthen its category mix
 
 - Seasonality: Consistent November–December surge points to holiday-driven shopping.
 ![Monthly Revenue](images/monthly_revenue.png)
-
 ![Quantity Sold Per Month](images/quantity_sold.png)
 
 - Category Shifts: From 2020 onward, Home & Lifestyle and Fashion Accessories dominate revenue. Food, Health & Beauty, and Sports & Travel vanished after 2019, requiring investigation into supply or demand changes.
