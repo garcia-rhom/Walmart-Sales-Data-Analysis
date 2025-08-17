@@ -45,6 +45,10 @@ These insights point to opportunities for Walmart to strengthen its category mix
 
 - Category Shifts: From 2020 onward, Home & Lifestyle and Fashion Accessories dominate revenue. Food, Health & Beauty, and Sports & Travel vanished after 2019, requiring investigation into supply or demand changes.
 
+![Monthly Revenue](images/monthly_revenue.png)
+
+![Quantity Sold Per Month](images/quantity_sold.png)
+
 ### City and Branch Performance
 - Top Performers: Weslaco ($46K) leads in revenue, with Home & Lifestyle driving profit. Mansfield tops profit margin (57%).
 
