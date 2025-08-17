@@ -3,7 +3,7 @@
 ## 1. Background and Overview
 This project analyzes Walmart’s sales, profitability, and customer feedback data to uncover trends, anomalies, and performance drivers across categories, cities, branches, and time periods. The ultimate objective is to inform product strategy, marketing campaigns, inventory planning, and operational decision-making.
 
-- The analysis leverages pivot tables built in Excel across four main focus areas:
+The analysis leverages pivot tables built in Excel across four main focus areas:
 
 - Revenue & Quantity Trends (time-series and category analysis)
 
@@ -16,17 +16,17 @@ This project analyzes Walmart’s sales, profitability, and customer feedback da
 ## 2. Data Structure Overview
 Tabs Analyzed: walmart_eda.trends, walmart_eda.city_branch, walmart_cleaned.profitability, walmart_cleaned.ratings, walmart_cleaned.correlation
 
-- Metrics/Dimensions:
+Metrics/Dimensions:
 
-a. Time-based: Revenue, Quantity, Profit across years and quarters
+- Time-based: Revenue, Quantity, Profit across years and quarters
 
-b. Category-based: Product categories such as Electronics, Home & Lifestyle, Food & Beverages, Health & Beauty, Sports & Travel
+- Category-based: Product categories such as Electronics, Home & Lifestyle, Food & Beverages, Health & Beauty, Sports & Travel
 
-c. Branch/City-based: Revenue, Quantity, Profit Margin performance per store and city
+- Branch/City-based: Revenue, Quantity, Profit Margin performance per store and city
 
-d. Profitability: Unit price, weighted profit margins, category-level profitability
+- Profitability: Unit price, weighted profit margins, category-level profitability
 
-e. Customer Behavior: Payment method preferences, ratings distribution, time-series of satisfaction
+- Customer Behavior: Payment method preferences, ratings distribution, time-series of satisfaction
 
 ## 3. Executive Summary
 Walmart’s sales analysis of 10,000+ transactions across 2019–2023 highlights shifting category dynamics, evolving customer preferences, and uneven branch performance. Annual sales show a seasonal peak during the holiday months, though a one-time surge in early 2019 suggests the impact of a major launch or promotion. Electronics, once the top driver, have been replaced by Home & Lifestyle and Fashion Accessories, which now account for the majority of both revenue and profit.
