@@ -72,7 +72,8 @@ c. Quantity vs Margin: Weak correlation (r² ~ 0), confirming scale doesn’t dr
 
 ### Customer Preference and Ratings
 a. Payment Methods: Digital payments dominate (credit + e-wallet > 70%). Cash is least preferred, with lowest revenue and volume.
-  ![Payment Method Preference](images/payment_method.png)
+
+![Payment Method Preference](images/payment_method.png)
 
 b. Ratings Distribution: Most ratings fall between 6–9 (generally satisfied customers).
 
