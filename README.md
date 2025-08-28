@@ -50,6 +50,7 @@ These insights point to opportunities for Walmart to strengthen its category mix
 
 ### City and Branch Performance
 - Top Performers: Weslaco ($46K) leads in revenue, with Home & Lifestyle driving profit. Mansfield tops profit margin (57%).
+![City Performance](images/city.png)
 
 - Underperformers: Lake Jackson lowest revenue ($5K) and lowest volume (121 sales). Weatherford, Alice, Canyon, Mineral Wells average only 18% profit margin. Canyon also saw electronics disappear after 2021.
 
@@ -59,6 +60,7 @@ These insights point to opportunities for Walmart to strengthen its category mix
 a. Category-Driven Profitability:
 
 - Fashion Accessories & Home & Lifestyle: ~$193K each, together 80% of profits.
+![Product Distribution](images/product_distribution.png)
 
 - Food & Beverages (40% margin) and Health & Beauty (40%) have high margins but low overall contribution ($18–21K).
 
@@ -70,10 +72,12 @@ c. Quantity vs Margin: Weak correlation (r² ~ 0), confirming scale doesn’t dr
 
 ### Customer Preference and Ratings
 a. Payment Methods: Digital payments dominate (credit + e-wallet > 70%). Cash is least preferred, with lowest revenue and volume.
+![Payment Method Preference](images/payment_method.png)
 
 b. Ratings Distribution: Most ratings fall between 6–9 (generally satisfied customers).
 
 c. Trend Over Time: Ratings peaked early 2019, then declined and stabilized around 5.5–6.5 post-2020. Indicates a gradual decrease in satisfaction.
+![Ratings over the years](images/rating.png)
 
 d. By Payment Method:
 
